@@ -1,0 +1,6 @@
+MySQL project is a cloned mimic version of Instagram database. It is used to perform data analysis for real world business related scenarios such as
+
+i) finding out the rewarding system for the loyal users
+ii) launching campaign to target the weekdays with the most user registerations
+iii) encouraging inactive users to log in back to the system
+etc.
