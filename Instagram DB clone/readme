@@ -1,11 +1,29 @@
-This MySql project is a cloned and mimic version of Instagram database. It performs data analysis for real world business related scenarios such as
+# Instagram Clone Database
 
-i) Finding out the rewarding system for the loyal users
-ii) Launching campaign to target the weekdays with the most user registerations
-iii) Encouraging inactive users to log in back to the system
-etc.
+This repository contains SQL scripts for creating a database schema resembling an Instagram clone.
 
-View EER Diagram for schema below:
-![eer](https://user-images.githubusercontent.com/43454449/222147366-aa4014c1-8fe4-47d3-830f-86826fed9785.png)
+## Database Schema
 
+- Users
+- Photos
+- Comments
+- Likes
+- Follows
+- Tags
+- Photo Tags (junction table)
 
+## Usage
+
+1. **Clone this repository:**
+
+2. **Import the SQL scripts into your database management tool** (e.g., MySQL, PostgreSQL) to create the database schema and sample data.
+
+3. **Use the SQL scripts for various database operations.**
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues and pull requests.
+
+## License
+
+This project is licensed under the MIT License.
