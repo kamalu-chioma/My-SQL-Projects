@@ -1,8 +1,8 @@
-## Instagram Clone Database
+** Instagram Clone Database **
 
 This repository contains SQL scripts for creating a database schema resembling an Instagram clone.
 
-Database Schema
+Database Schema::
 
 - Users
 - Photos
@@ -12,18 +12,18 @@ Database Schema
 - Tags
 - Photo Tags (junction table)
 
-Usage
+Usage::
 
-1. Clone this repository:
+1. Clone this repository
 
 2. Import the SQL scripts into your database management tool (e.g., MySQL, PostgreSQL) to create the database schema and sample data.
 
 3. Use the SQL scripts for various database operations.
 
-Contributing
+Contributing::
 
 Contributions are welcome! Feel free to open issues and pull requests.
 
-License
+License::
 
 This project is licensed under the MIT License.
